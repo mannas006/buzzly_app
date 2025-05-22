@@ -45,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
           },
         ),
       )
-      ..loadRequest(Uri.parse('https://buzzly-chat-application.onrender.com'));
+      ..loadRequest(Uri.parse('https://buzzlychat.azurewebsites.net/'));
   }
 
   @override
